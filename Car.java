@@ -7,7 +7,7 @@
 // *******************************************
 
 public class Car {
-	private double mpg; //miles per gallon
+	private double mpg; //MPG
 	private double gas;
 	public Car(double MilesPerGallon){
 		mpg = MilesPerGallon;
